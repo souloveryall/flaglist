@@ -1,5 +1,5 @@
 FLAGLIST_OFFSETS = {
-    "FFlagList": 0x76B6018,
+    "FFlagList": 0x7723F28,
     "FFlagToValueGetSet": 0x30,
     "ValueGetSetToValue": 0xC0,
     "Value": 0xD0
